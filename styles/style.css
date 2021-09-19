@@ -95,7 +95,7 @@ header nav.desktop li a {
 
 section.banner {
 	width: 100%;
-	height: 650px;
+	height: 750px;
 	background-image: url("../images/banner.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -105,7 +105,7 @@ section.banner {
 section.banner a {
 	position: absolute;
 	top: 50%;
-	right: 50px;
+	right: 250px;
 	transform: translateY(-50%);
 	font-size: 24px;
 	padding: 10px 15px;
@@ -113,6 +113,7 @@ section.banner a {
 	text-decoration: none;
 	border-radius: 12px;
 	color: #2b2b2b;
+	background: #ffffff;
 }
 
 section.flag {
@@ -360,5 +361,5 @@ footer .final p:last-child {
 
 	footer .final p:last-child {
 		float: none;
-	} 
+	}
 }
